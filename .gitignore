@@ -17,3 +17,6 @@
 *.app
 *~
 *.swp
+
+demos/*/.dep/
+demos/*/build/
