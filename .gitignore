@@ -20,3 +20,8 @@
 
 demos/*/.dep/
 demos/*/build/
+
+# Eclipse configuration files
+.cproject
+.project
+.settings/
